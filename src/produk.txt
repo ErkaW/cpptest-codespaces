@@ -1,0 +1,7 @@
+1/Anggur Red/45000
+2/Mangga    /30000
+3/Jagung Manis/5000
+4/Kopi Bubuk/15000
+5/Susu SKM/20000
+6/Mie Indomie/3000
+7/Apel Merah/9000
