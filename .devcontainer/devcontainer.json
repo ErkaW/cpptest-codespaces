@@ -9,6 +9,11 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools-extension-pack"
+				"oderwat.indent-rainbow"
+				"sirtori.indenticator"
+				"github.vscode-pull-request-github"
+				"aaron-bond.better-comments"
+				"github.copilot"
 			]
 		}
 	}
